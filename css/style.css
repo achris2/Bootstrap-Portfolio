@@ -1,4 +1,40 @@
-.progress {
-    max-width: 50%;
-    margin: 10px;
+* {
+    font-family: Montserrat;
 }
+
+.jumbotron{
+    background-color: lightblue;
+    padding: 25px;
+}
+
+.jumbotron img {
+    max-width: 300px;
+    max-height: 400px;
+    padding: 20px;
+}
+
+.work, .skills, .contact-me{
+    margin-top: 20px;
+    padding: 25px;
+}
+
+
+h2 {
+    color:#022b3a;
+    font-weight: bolder;
+}
+
+a {
+    color:#022b3a;
+    text-decoration:underline;
+}
+
+h1 {
+    color:#022b3a;
+}
+
+body, html {
+    font-family: 'Montserrat';
+    text-align: justify;
+}
+
