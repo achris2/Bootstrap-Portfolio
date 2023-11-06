@@ -56,3 +56,21 @@ footer {
     background-color: lightblue;
     text-align: center;
 }
+
+.about-me {
+    display: flex;
+    align-items: baseline;
+    bac
+
+}
+
+.container {
+    padding: 25px;
+    margin: 0px;
+}
+
+footer {
+    margin: 0px;
+    padding: 10px;
+    text-align: center; 
+}
