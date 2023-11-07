@@ -25,9 +25,9 @@ Disclaimer: I did not build Netflix, please read the description, it is only a w
 
 ## Screenshot
 
-```md
-![alt text](/images/screenshot-latest.png)
-```
+
+![Screenshot](https://github.com/achris2/Bootstrap-Portfolio/blob/main/images/screenshot-latest.png)
+
 
 ## Credits
 
