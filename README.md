@@ -26,7 +26,7 @@ Disclaimer: I did not build Netflix, please read the description, it is only a w
 ## Screenshot
 
 ```md
-![alt text](../Bootstrap-Portfolio/images/screenshot-latest.png)
+![alt text](/images/screenshot-latest.png)
 ```
 
 ## Credits
